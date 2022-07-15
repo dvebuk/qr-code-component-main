@@ -20,8 +20,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Frontend Mentor](https://your-solution-url.com)
-- Live Site URL: [Site](https://your-live-site-url.com)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/flexbox-qrcode-component-Lbm9nE0ELI)
+- Live Site URL: [Site](https://qr-code-component-main-murex.vercel.app/)
 
 ## My process
 
